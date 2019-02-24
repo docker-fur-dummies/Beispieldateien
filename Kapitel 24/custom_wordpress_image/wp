@@ -1,0 +1,2 @@
+#!/bin/dash
+sudo -u www-data php /bin/wp-cli.phar $*
