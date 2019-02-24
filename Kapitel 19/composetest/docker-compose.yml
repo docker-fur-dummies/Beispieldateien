@@ -2,7 +2,18 @@ version: '3'
 services:
   web:
     build: .
+    image: frankgeisler/pythonzaehler
     ports:
      - "5000:5000"
+    deploy:
+      replicas: 2
+      update_config:
+        parallelism: 2
+        delay: 10s
+      restart_policy:
+        condition: on-failure
   redis:
     image: "redis:alpine"
+    deploy:
+      placement: 
+        constraints: [node.role == manager]
