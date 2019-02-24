@@ -55,7 +55,7 @@ docker container logs mysql
 #----------------------------------------------------------------------------
 # 7. Docker Container mit Wordpress erzeugen
 #----------------------------------------------------------------------------
-docker container run -v C:\wordpress:/var/www -d -e WORDPRESS_DB_HOST=mysql:3306 -e WORDPRESS_DB_USER=wordpress -e WORDPRESS_DB_PASSWORD=wordpress -e WORDPRESS_DB_NAME=wordpress --link mysql:mysql --network wordpress -p 80:80 wordpress:latest
+docker container run -v C:\wordpress:/var/www -d -e WORDPRESS_DB_HOST=mysql:3306 -e WORDPRESS_DB_USER=wordpress -e WORDPRESS_DB_PASSWORD=wordpress -e WORDPRESS_DB_NAME=wordpress --link mysql:mysql --network wordpress --name wordpress -p 80:80 wordpress:latest
 
 #----------------------------------------------------------------------------
 # 8. Nachsehen, ob der Wordpress Docker Container läuft
@@ -80,14 +80,14 @@ docker container rm wordpress mysql
 #----------------------------------------------------------------------------
 # 12. Docker Images löschen
 #----------------------------------------------------------------------------
-docker image rm wordpress mysql 
+docker image rm wordpress mysql:5.7 
 
 #----------------------------------------------------------------------------
 # 13. Docker Volume mysql_db löschen
 #----------------------------------------------------------------------------
-docker volume delete mysql_db
+docker volume rm mysql_data
 
 #----------------------------------------------------------------------------
 # 14. Docker Netzwerk löschen
 #----------------------------------------------------------------------------
-docker network delete wordpress
+docker network rm wordpress
