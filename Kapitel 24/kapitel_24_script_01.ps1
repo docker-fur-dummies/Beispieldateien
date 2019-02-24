@@ -1,5 +1,5 @@
 #============================================================================
-#	Datei:		kapitel_24_script_01
+#	Datei:		kapitel_24_script_01.ps1
 #
 #	Summary:	Dieses Script demonstriert wie man eine Wordpress Entwicklungs-
 #               umgebung manuell mit Hilfe von Docker aufbauen kann. 
