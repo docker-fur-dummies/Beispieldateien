@@ -24,7 +24,7 @@ FROM wordpress:latest
 MAINTAINER Frank Geisler <frank_geisler@geislers.net>
 
 # Pakete installieren die man für wp-cli benötigt
-RUN apt-get update && apt-get install -y sudo less my-sql-client && curl -o /bin/wp-cli.phar https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
+RUN apt-get update && apt-get install -y sudo less mysql-client && curl -o /bin/wp-cli.phar https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
 
 # Wrapper für wp-cli kopieren und die entsprechenden Ausführungsberechtigungen setzen
 COPY wp /bin/wp
