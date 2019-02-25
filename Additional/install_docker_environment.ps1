@@ -4,10 +4,9 @@
 #	Summary:	Dieses Script installiert all die Programme mit Chocolately
 #               die man benötigt um mit Docker zu arbeiten.
 #
-#	Datum:		2019-02-16
+#	Datum:		2019-02-24
 #
 #	PowerShell Version: 5.1
-#   Azure Version: 5.1.1
 #
 #   ACHTUNG: Wenn man dieses Scipt in Visual Studio Code ausführt hängt sich die
 #            Ausführung immer dann auf, wenn AzureVM-Befehle ausgeführt werden!
