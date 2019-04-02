@@ -1,0 +1,27 @@
+version: '3.3'
+services:
+  db:
+    image: mysql:5.7
+    restart: always
+    volumes:
+       - db_data:/var/lib/mysql
+    command: --disable-partition-engine-check
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: reallysecure1
+      MYSQL_DATABASE: mydb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+
+  phpmyadmin:
+    depends_on:
+      - db
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      PMA_HOST: db
+volumes:
+  db_data:
