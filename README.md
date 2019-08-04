@@ -163,6 +163,23 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
 
 - **Kapitel 21**
     - [wp-cli](http://wp-cli.org/de/)
+
+- **Kapitel 22**
+    - [Oracle Image](https://hub.docker.com/_/oracle-database-enterprise-edition)
+    - [CouchDB Image](https://hub.docker.com/_/couchdb )
+    - [MongoDB Image](https://hub.docker.com/_/mongo)
+    - [influxdb Image](https://hub.docker.com/_/influxdb)
+    - [Go Image](https://hub.docker.com/_/golang)
+    - [Python Image](https://hub.docker.com/_/python)
+    - [Ruby Image](https://hub.docker.com/_/ruby)
+    - [Docker Registry Image](https://hub.docker.com/_/registry)
+    - [Elasticsearch Image](https://hub.docker.com/_/elasticsearch)
+    - [Drupal Image](https://hub.docker.com/_/drupal)
+    - [Chrome Image](https://hub.docker.com/r/jess/chrome/)
+    - [Firefox Image](https://hub.docker.com/r/kennethkl/firefox/)
+    - [Gimp Image](https://hub.docker.com/r/jarfil/gimp-git/)
+    - [Spotify Image](https://hub.docker.com/r/jess/spotify/)
+
 - **Kapitel 27**
     - [Sicherheit in Docker](https://docs.docker.com/engine/security/security/)
 
