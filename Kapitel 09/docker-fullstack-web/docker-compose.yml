@@ -1,0 +1,52 @@
+version: '3'
+
+services:
+  frontend-app:
+    container_name: frontend-app
+    build:
+      context: ./react-app
+      dockerfile: Dockerfile
+      args: 
+        APPNAME: whale-app
+    volumes:
+      - './react-app/whale-app:/usr/src/app'
+      - '/usr/src/app/node_modules'
+    depends_on:
+      - backend-app
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=development
+    restart: always
+    networks: 
+      - frontend
+  
+  backend-app: 
+    container_name: backend-app
+    build:
+      context: ./backend-app
+      dockerfile: Dockerfile
+    depends_on:
+      - database
+    ports: 
+      - 5000:5000
+    restart: always
+    networks:
+      - frontend
+      - backend
+  
+  database:
+    container_name: database
+    image: "mcr.microsoft.com/mssql/server"
+    environment:
+      SA_PASSWORD: "Your_password123"
+      ACCEPT_EULA: "Y"
+    ports: 
+      - 1433:1433
+    restart: always
+    networks: 
+      - backend
+
+networks:
+  frontend:
+  backend:
