@@ -77,6 +77,11 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Debian Image auf Dockerhub](https://hub.docker.com/_/debian)
     - [Microsoft Nano Server Image](https://hub.docker.com/r/microsoft/nanoserver/)
 
+- **Kapitel 9**
+    - [Dokumentation von Docker Compose](https://docs.docker.com/compose/)
+    - [GitHub Repository zum Buch](https://github.com/docker-fur-dummies/Beispieldateien)
+    - [Dokumentation zur react Anwendung](https://github.com/facebook/create-react-app)
+
 ## Errata
 Auch wenn wir alles menschenmögliche getan haben um Fehler zu vermeiden und viele Personen am Entstehungsprozess des Buches beteiligt waren schleichen sich Fehler trotzdem immer mal wieder ein. An dieser Stelle finden Sie eine Liste mit Fehlern und deren Korrektur.
 
