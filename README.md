@@ -22,3 +22,18 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs.
     - [Speccy](https://www.ccleaner.com/speccy)
     - [Windocks](https://www.windocks.com/)
 
+- **Kapitel 3**
+    - [Docker Website](https://www.docker.com) 
+    - [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
+    - [Aktuelle Version von Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+    - [GitHub Desktop](https://desktop.github.com/)
+    - [iTerm2](https://www.iterm2.com/)
+    - [iTerm2 Features](https://www.iterm2.com/features.html)
+    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [Visual Studio Code und Docker](https://code.visualstudio.com/docs/azure/docker)
+    - [Unterschiede zwischen bash und zsh](https://kushellig.de/shell-bash-vs-zsh/)
+    - [Zsh Shell](http://www.zsh.org/)
+    - [Codevervollständigung in bash](http://go.gdsbi.de/bash-codevervollstaendigung)
+    - [Codevervollständigung in Zsh](http://go.gdsbi.de/zsh-code-vervollstaendigung)
+
+
