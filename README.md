@@ -130,7 +130,23 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Liste der Treiber für die Docker Machine](https://docs.docker.com/machine/drivers/)
     - [Grundprinzipien der Docker Machine](https://docs.docker.com/machine/overview/)
     - [Liste von Kubernetes Hosting-Anbieter](https://kubernetes.io/docs/setup/pick-right-solution/#hosted-solutions)
+
+- **Kapitel 19**
+    - [Play With Docker für temporäre Umgebungen zum Testen](https://labs.play-with-docker.com/)
+    - [Docker Hosting bei Digital Ocean](http://www.digitalocean.com)
+    - [Skripte für Docker-Umgebungen](http://get.docker.com)
+
+- **Kapitel 20**
+    - [Swarm mit Overlay Netzwerk](http://go.gdsbi.de/docker-swarm-overlay)
+    - [Routing Mesh in Swarm](http://go.gdsbi.de/swarm-routing-mesh)
+    - [Informationen zu Swarm Stacks](http://go.gdsbi.de/docker-swarm-stacks)
+    - [Swarm und Security](http://go.gdsbi.de/docker-swarm-security)
+    - [DevOps mit Swarm](http://go.gdsbi.de/docker-swarm-devops)
+    - [Updaten von Swarm Services](http://go.gdsbi.de/swarm-service-update)
+    - [Healthchecks in Swarm](http://go.gdsbi.de/swarm-healthchecks)
+
     
+
 
 
 ## Errata

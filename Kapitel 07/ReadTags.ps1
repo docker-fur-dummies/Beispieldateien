@@ -5,7 +5,6 @@
 # Initialisieren Sie zunächst das Ergebnisobjekt
 $ResultingObject = @()
 
-Write-Host "https://registry.hub.docker.com/v2/repositories/library/$PackageName/tags/?page_size=1250" 
 # Nun machen Sie den Web-Aufruf zum Docker Hub
 $result = Invoke-WebRequest -Uri "https://registry.hub.docker.com/v2/repositories/library/$PackageName/tags/?page_size=1250" 
 
