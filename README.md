@@ -86,7 +86,19 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - Hier gibt es keine Links
 
 - **Kapitel 11**
-    - Hier gibt es keine Links    
+    - Hier gibt es keine Links 
+
+- **Kapitel 12**
+    - [Docker Registry](https://github.com/docker/docker-registry )
+    - [Das aktuelle Projekt zur Registry](https://github.com/docker/distribution)
+    - [Quay.io](https://quay.io/)
+    - [Amazon Elastic Container Registry](https://aws.amazon.com/de/ecr/)
+    - [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/.)
+    - [Google Cloud Container Registry](https://cloud.google.com/container-registry/)
+    - [Docker Enterprise Edition](https://www.docker.com/products/docker-enterprise#/container_management)
+    - [Quai Enterprise](https://quay.io/plans/?tab=enterprise)
+    - [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry/)
+
 
 
 ## Errata
