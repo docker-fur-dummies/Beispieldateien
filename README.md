@@ -62,3 +62,16 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Docker in Jenkins integrieren](https://jenkins.io/solutions/docker/)
     - [Gitlab](https://about.gitlab.com/)
     - [Docker Image von Gitlab](https://hub.docker.com/u/gitlab)
+
+- **Kapitel 7**
+    - [Docker Image von Ubuntu](https://hub.docker.com/r/library/ubuntu/tags/)
+    - [Docker Hub](https://hub.docker.com/)
+    - [Offizielle Docker Images](https://github.com/docker-library/official-images)
+    - [Ubuntu Tags](https://registry.hub.docker.com/v2/repositories/library/ubuntu/tags/)
+    - 
+
+## Errata
+Auch wenn wir alles menschenmögliche getan haben um Fehler zu vermeiden und viele Personen am Entstehungsprozess des Buches beteiligt waren schleichen sich Fehler trotzdem immer mal wieder ein. An dieser Stelle finden Sie eine Liste mit Fehlern und deren Korrektur.
+
+- **Kapitel 7**
+    - Seite 120: Dort steht "1. Laden Sie zunächst den Container mit dem gewünschten Tag herunter". Richtig müsste es heißen "1. Laden Sie zunächst **das Image** mit dem gewünschten Tag herunter"
