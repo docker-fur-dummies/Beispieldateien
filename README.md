@@ -101,6 +101,23 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [AWS ECS Services-Übersicht](https://console.aws.amazon.com/ecs/home)
     - [AWS ECR Services-Übersicht](https://console.aws.amazon.com/ecr/home)
     - [AWS EKS Services-Übersicht](https://console.aws.amazon.com/eks/home)
+
+- **Kapitel 18**
+    - [Über die Google Cloud Build API ein Image erstellen](https://cloud.google.com/cloud-build/docs/quickstart-docker)
+    - [Google Container Registry](https://cloud.google.com/container-registry/)
+    - [Kubernetes Engine in der Google Cloud](https://cloud.google.com/kubernetes-engine/)
+    - [Hello World Beispiel mit Kubernetes in der Google Cloud](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-node)
+    - [IBM Cloud Container Registry](https://www.ibm.com/de-de/cloud/container-registry)
+    - [IBM Cloud Kubernetes Service](https://www.ibm.com/de-de/cloud/container-service)
+    - [Isito auf der IBM Cloud](https://www.ibm.com/cloud/info/istio)
+    - [Docker Droplet in Digital Ocean aufsetzen](https://www.digitalocean.com/docs/one-clicks/docker/)
+    - [Kubernetes im Digital Ocean](https://www.digitalocean.com/products/kubernetes/)
+    - [Private Registry in Sloppy.io aufsetzen](https://kb.sloppy.io/features/deploy/private-registries)
+    - [Informationen zum Sloppy.io Load Balancer](https://kb.sloppy.io/features/deploy/load-balancer)
+    - [Domain-Verwaltung mit Sloppy.io](https://kb.sloppy.io/features/deploy/domains)
+    - [Liste der Treiber für die Docker Machine](https://docs.docker.com/machine/drivers/)
+    - [Grundprinzipien der Docker Machine](https://docs.docker.com/machine/overview/)
+    - [Liste von Kubernetes Hosting-Anbieter](https://kubernetes.io/docs/setup/pick-right-solution/#hosted-solutions)
     
 
 
