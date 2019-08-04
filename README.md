@@ -42,3 +42,23 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
 - **Kapitel 5**
     - [nginx](https://nginx.org/en/)
 
+- **Kapitel 6**
+    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [Docker Erweiterung zu VS Code](https://code.visualstudio.com/docs/azure/docker)
+    - [Atom](https://atom.io/)
+    - [Atom Docker Plugin](https://atom.io/packages/docker)
+    - [GitLens](https://gitlens.amod.io/)
+    - [GitHub](https://github.com/)
+    - [Bitbucket](https://bitbucket.org/)
+    - [Prometheus](https://prometheus.io/)
+    - [Docker Images von Prometheus](https://hub.docker.com/u/prom)
+    - [Portainer](https://www.portainer.io/)
+    - [Docker Images von Portainer](https://hub.docker.com/r/portainer/portainer/)
+    - [DC/OS](https://dcos.io)
+    - [Travis CI](https://travis-ci.org/)
+    - [Docker in Travis CI integrieren](https://docs.travis-ci.com/user/docker/)
+    - [Jenkins](https://jenkins.io/)
+    - [Docker Image von Jenkins](https://hub.docker.com/r/jenkins/jenkins/)
+    - [Docker in Jenkins integrieren](https://jenkins.io/solutions/docker/)
+    - [Gitlab](https://about.gitlab.com/)
+    - [Docker Image von Gitlab](https://hub.docker.com/u/gitlab)
