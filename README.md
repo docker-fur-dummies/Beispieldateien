@@ -164,6 +164,9 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
 - **Kapitel 21**
     - [wp-cli](http://wp-cli.org/de/)
 
+- **Kapitel 25**
+    - [Docker Hub](https://hub.docker.com/)
+
 - **Kapitel 26**
     - [Raspbian Linux](https://www.raspberrypi.org/downloads/raspbian/)
     - [Etcher zum Beschreiben von SD Karten](https://etcher.io/)
