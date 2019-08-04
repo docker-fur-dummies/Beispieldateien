@@ -179,6 +179,9 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Firefox Image](https://hub.docker.com/r/kennethkl/firefox/)
     - [Gimp Image](https://hub.docker.com/r/jarfil/gimp-git/)
     - [Spotify Image](https://hub.docker.com/r/jess/spotify/)
+- **Kapitel 25**
+    - [Docker Hub](https://hub.docker.com/)
+
 - **Kapitel 26**
     - [Raspbian Linux](https://www.raspberrypi.org/downloads/raspbian/)
     - [Etcher zum Beschreiben von SD Karten](https://etcher.io/)
