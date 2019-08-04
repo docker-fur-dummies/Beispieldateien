@@ -145,6 +145,16 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Updaten von Swarm Services](http://go.gdsbi.de/swarm-service-update)
     - [Healthchecks in Swarm](http://go.gdsbi.de/swarm-healthchecks)
 
+- **Kapitel 20**
+    - [Liste von Kubernetes Addons](https://kubernetes.io/docs/concepts/cluster-administration/addons/)
+    - [TryK8s - kostenloser Test-Cluster](https://tryk8s.com)
+    - [Play with K8s - 4 Stunden Test-Cluster](https://labs.play-with-k8s.com/)
+    - [Doku zu Hyper-V Netzwerken](https://docs.microsoft.com/de-de/virtualization/hyper-v-on-windows/quick-start/connect-to-network)
+    - [Minikube Repository](https://github.com/kubernetes/minikube/releases/latest)
+    - [AUR Package für Minikube](https://aur.archlinux.org/packages/minikube/)
+    - [RPM Package für Minikube](https://copr.fedorainfracloud.org/coprs/antonpatsev/minikube-rpm/)
+    - [OpenSuse Package für Minikube](https://build.opensuse.org/package/show/Virtualization:containers/minikube)
+
 
 
 
