@@ -164,6 +164,9 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
 - **Kapitel 21**
     - [wp-cli](http://wp-cli.org/de/)
 
+- **Kapitel 24**
+    - [Adventure Works Beispieldatenbank](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/adventure-works)
+    - [Informationen zur Lizensierung des SQL Servers](http://go.gdsbi.de/sql_lizenz)
 - **Kapitel 25**
     - [Docker Hub](https://hub.docker.com/)
 
