@@ -81,6 +81,12 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Dokumentation von Docker Compose](https://docs.docker.com/compose/)
     - [GitHub Repository zum Buch](https://github.com/docker-fur-dummies/Beispieldateien)
     - [Dokumentation zur react Anwendung](https://github.com/facebook/create-react-app)
+    
+- **Kapitel 10**
+    - Hier gibt es keine Links
+
+- **Kapitel 11**
+    - Hier gibt es keine Links    
 
 - **Kapitel 16**
     - [Blogbeitrag Docker VM auf Azure bereitstellen](http://go.gdsbi.de/azure_docker)
@@ -90,7 +96,6 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Container Registry SKUs in Azure](https://docs.microsoft.com/de-de/azure/container-registry/container-registry-skus)
     - [Azure Kubernetes Dokumentation](https://docs.microsoft.com/en-us/cli/azure/ext/aks-preview/aks?view=azure-cli-latest#ext-aks-preview-az-aks-create)
     - [Azure Shell instlalieren](https://docs.microsoft.com/de-de/cli/azure/install-azure-cli?view=azure-cli-latest)
-    
 
 ## Errata
 Auch wenn wir alles menschenmögliche getan haben um Fehler zu vermeiden und viele Personen am Entstehungsprozess des Buches beteiligt waren schleichen sich Fehler trotzdem immer mal wieder ein. An dieser Stelle finden Sie eine Liste mit Fehlern und deren Korrektur.
