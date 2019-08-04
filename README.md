@@ -155,6 +155,26 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [RPM Package für Minikube](https://copr.fedorainfracloud.org/coprs/antonpatsev/minikube-rpm/)
     - [OpenSuse Package für Minikube](https://build.opensuse.org/package/show/Virtualization:containers/minikube)
 
+- **Kapitel 27**
+    - [Sicherheit in Docker](https://docs.docker.com/engine/security/security/)
+
+- **Kapitel 28**
+    - [Jupyter Notebooks Image im Docker Hub](https://hub.docker.com/u/jupyter)
+    - [Python Image im Docker Hub](https://hub.docker.com/_/python/)
+
+- **Kapitel 29**
+    - [Kubernetes Webseite](https://kubernetes.io/)
+    - [GitHub Webseite](https://github.com/)
+    - [Portainer Webseite](https://www.portainer.io/)
+    - [Microsoft Azure Cloud Dienste](https://azure.microsoft.com)
+    - [Amazon AWS Cloud Dienste](https://aws.amazon.com/)
+    - [Visual Studio Code Webseite](https://code.visualstudio.com/)
+    - [Logstash Webseite](https://www.elastic.co/de/products/logstash)
+    - [Core OS Webseite](https://coreos.com/)
+    - [Jenkins Webseite](https://jenkins.io/)
+    - [Watchtower Projektseite](https://github.com/v2tec/watchtower)
+    - [Cmdr Webseite](https://cmder.net/)
+    - [iTerm2 Webseite](https://www.iterm2.com/)
 
 
 
