@@ -1,5 +1,5 @@
 # Beispieldateien
-Hier liegen die Beispieldateien des Docker für Dummies Buchs.
+Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin Kettner und Frank Geisler.
 
 ## Linkverzeichnis
 - **Kapitel 1**
@@ -35,5 +35,9 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs.
     - [Zsh Shell](http://www.zsh.org/)
     - [Codevervollständigung in bash](http://go.gdsbi.de/bash-codevervollstaendigung)
     - [Codevervollständigung in Zsh](http://go.gdsbi.de/zsh-code-vervollstaendigung)
+
+- **Kapitel 4**
+    - [Docker für Linux](https://download.docker.com/linux/static/stable)
+
 
 
