@@ -137,8 +137,6 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Play With Docker für temporäre Umgebungen zum Testen](https://labs.play-with-docker.com/)
     - [Docker Hosting bei Digital Ocean](http://www.digitalocean.com)
     - [Skripte für Docker-Umgebungen](http://get.docker.com)
-
-- **Kapitel 20**
     - [Swarm mit Overlay Netzwerk](http://go.gdsbi.de/docker-swarm-overlay)
     - [Routing Mesh in Swarm](http://go.gdsbi.de/swarm-routing-mesh)
     - [Informationen zu Swarm Stacks](http://go.gdsbi.de/docker-swarm-stacks)
@@ -147,7 +145,7 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Updaten von Swarm Services](http://go.gdsbi.de/swarm-service-update)
     - [Healthchecks in Swarm](http://go.gdsbi.de/swarm-healthchecks)
 
-    
+
 
 
 
