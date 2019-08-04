@@ -81,7 +81,7 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Dokumentation von Docker Compose](https://docs.docker.com/compose/)
     - [GitHub Repository zum Buch](https://github.com/docker-fur-dummies/Beispieldateien)
     - [Dokumentation zur react Anwendung](https://github.com/facebook/create-react-app)
-
+    
 - **Kapitel 10**
     - Hier gibt es keine Links
 
@@ -99,6 +99,21 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Quai Enterprise](https://quay.io/plans/?tab=enterprise)
     - [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry/)
 
+
+- **Kapitel 16**
+    - [Blogbeitrag Docker VM auf Azure bereitstellen](http://go.gdsbi.de/azure_docker)
+    - [Azure Portal](https://portal.azure.com)
+    - [Kostenlose Azure Test-Subscription beziehen](https://azure.microsoft.com/de-de/free/)
+    - [Namenskonventionen und Azure Best Practices](https://docs.microsoft.com/de-de/azure/architecture/best-practices/naming-conventions)
+    - [Container Registry SKUs in Azure](https://docs.microsoft.com/de-de/azure/container-registry/container-registry-skus)
+    - [Azure Kubernetes Dokumentation](https://docs.microsoft.com/en-us/cli/azure/ext/aks-preview/aks?view=azure-cli-latest#ext-aks-preview-az-aks-create)
+    - [Azure Shell instlalieren](https://docs.microsoft.com/de-de/cli/azure/install-azure-cli?view=azure-cli-latest)
+
+- **Kapitel 17**
+    - [AWS ECS Services-Übersicht](https://console.aws.amazon.com/ecs/home)
+    - [AWS ECR Services-Übersicht](https://console.aws.amazon.com/ecr/home)
+    - [AWS EKS Services-Übersicht](https://console.aws.amazon.com/eks/home)
+    
 
 
 ## Errata
