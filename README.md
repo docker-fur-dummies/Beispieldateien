@@ -139,7 +139,8 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Grundprinzipien der Docker Machine](https://docs.docker.com/machine/overview/)
     - [Liste von Kubernetes Hosting-Anbieter](https://kubernetes.io/docs/setup/pick-right-solution/#hosted-solutions)
     
-
+- **Kapitel 21**
+    - [wp-cli](http://wp-cli.org/de/)
 
 ## Errata
 Auch wenn wir alles menschenmögliche getan haben um Fehler zu vermeiden und viele Personen am Entstehungsprozess des Buches beteiligt waren schleichen sich Fehler trotzdem immer mal wieder ein. An dieser Stelle finden Sie eine Liste mit Fehlern und deren Korrektur.
