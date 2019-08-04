@@ -104,7 +104,10 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
 
 - **Kapitel 14**
     - [Docker Hub](https://hub.docker.com)
-    
+
+- **Kapitel 15**
+    - Hier gibt es keine Links
+
 - **Kapitel 16**
     - [Blogbeitrag Docker VM auf Azure bereitstellen](http://go.gdsbi.de/azure_docker)
     - [Azure Portal](https://portal.azure.com)
