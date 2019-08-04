@@ -1,8 +1,8 @@
 #============================================================================
-#	Datei:		01. Mit dem Docker Hub arbeiten.ps1
+#	Datei:		01. Arbeiten mit Dockerfiles.ps1
 #
 #	Summary:	In diesem Script finden Sie die Befehle aus dem
-#               Kapitel zum Docker Hub. 
+#               dem Kapitel zu Dockerfiles. 
 #
 #	Datum:		2019-08-04
 #
@@ -26,27 +26,40 @@
 #============================================================================*/
 
 #----------------------------------------------------------------------------
-# 1. Nach Ubuntu Images suchen
+# 1. Whalesay Image ausprobieren
 #----------------------------------------------------------------------------
-docker search ubuntu
+docker container run docker/whalesay cowsay boo
 
 #----------------------------------------------------------------------------
-# 2. Vollständige Beschreibung anzeigen lassen
+# 2. Verzeichnis für das Image anlegen
 #----------------------------------------------------------------------------
-docker search ubuntu --no-trunc
+mkdir wise-whale
+Set-Location wise-whale
 
 #----------------------------------------------------------------------------
-# 3. Hilfe zu Docker Search anzeigen lassen
+# 3. Aus dem Dockerfile ein Image erzeugen
 #----------------------------------------------------------------------------
-docker search --help
+docker build -t wise-whale .
 
 #----------------------------------------------------------------------------
-# 4. Ubuntu Tags in PowerShell auslesen
+# 4. Prüfen ob das Image existiert
 #----------------------------------------------------------------------------
-$ResultingObject = @()
-$result = Invoke-WebRequest `
-            -Uri "https://registry.hub.docker.com/v2/repositories/library/ubuntu/tags/?page_size=1250"
-$JsonObject = ConvertFrom-Json `
-                -InputObject $result.Content
-$ResultingObject = $JsonObject.results                
-Write-Output $ResultingObject.name 
+docker images
+
+#----------------------------------------------------------------------------
+# 5. Einen Container aus dem neuen Image erstellen
+#----------------------------------------------------------------------------
+docker run wise-whale
+
+#----------------------------------------------------------------------------
+# 6. mydbimage erzeugen
+#----------------------------------------------------------------------------
+docker build -t mydbimage .
+
+#----------------------------------------------------------------------------
+# 7. Einen Container aus dem neuen Image erstellen
+#----------------------------------------------------------------------------
+docker run --name mydbcontainer -d -p 1433:1433 -v sqlvolume:/var/opt/mssql mydbimage 
+
+
+

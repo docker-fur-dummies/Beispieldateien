@@ -68,7 +68,14 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
     - [Docker Hub](https://hub.docker.com/)
     - [Offizielle Docker Images](https://github.com/docker-library/official-images)
     - [Ubuntu Tags](https://registry.hub.docker.com/v2/repositories/library/ubuntu/tags/)
-    - 
+
+- **Kapitel 8**
+    - [Dockerfile Dokumentation](https://docs.docker.com/v17.09/engine/reference/builder/)
+    - [Whalesay Image im Dockerhub](https://hub.docker.com/r/docker/whalesay/)
+    - [Fortune Programm](https://de.wikipedia.org/wiki/Fortune_(Computerprogramm))
+    - [Alpine Image auf Dockerhub](https://hub.docker.com/_/alpine/)
+    - [Debian Image auf Dockerhub](https://hub.docker.com/_/debian)
+    - [Microsoft Nano Server Image](https://hub.docker.com/r/microsoft/nanoserver/)
 
 ## Errata
 Auch wenn wir alles menschenmögliche getan haben um Fehler zu vermeiden und viele Personen am Entstehungsprozess des Buches beteiligt waren schleichen sich Fehler trotzdem immer mal wieder ein. An dieser Stelle finden Sie eine Liste mit Fehlern und deren Korrektur.
