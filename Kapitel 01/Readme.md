@@ -1,1 +1,1 @@
-# Zu diesem Kapitel gibt es (noch) keine Beispieldateien. 
+# Zu diesem Kapitel gibt es keine Beispieldateien. 
