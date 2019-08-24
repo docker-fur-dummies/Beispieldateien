@@ -224,5 +224,8 @@ Hier liegen die Beispieldateien des Docker für Dummies Buchs von Dr. Benjamin K
 ## Errata
 Auch wenn wir alles menschenmögliche getan haben um Fehler zu vermeiden und viele Personen am Entstehungsprozess des Buches beteiligt waren schleichen sich Fehler trotzdem immer mal wieder ein. An dieser Stelle finden Sie eine Liste mit Fehlern und deren Korrektur.
 
+- **Einführung**
+    - Seite 23: Es muss natürlich richtigerweise heißen dass Systemadministratorn **80%** Ihrer Zeit mit Wartung von Software beschäftigt sind und nicht 8%. Wären Sie nur 8% mit Wartung von Software beschäftigt gäbe es kein Problem.
+
 - **Kapitel 7**
     - Seite 120: Dort steht "1. Laden Sie zunächst den Container mit dem gewünschten Tag herunter". Richtig müsste es heißen "1. Laden Sie zunächst **das Image** mit dem gewünschten Tag herunter"
