@@ -229,3 +229,7 @@ Auch wenn wir alles menschenmögliche getan haben um Fehler zu vermeiden und vie
 
 - **Kapitel 7**
     - Seite 120: Dort steht "1. Laden Sie zunächst den Container mit dem gewünschten Tag herunter". Richtig müsste es heißen "1. Laden Sie zunächst **das Image** mit dem gewünschten Tag herunter"
+
+- **Kapitel 10**
+    - Seite 162ff: In Absatz 6 ist als Subnetz 172.**18**.0.0/16 genannt, dies sollte 172.**29**.0.0/16 sein, siehe Screenshot. In Absatz 9 ist die IP-Adresse sinngemäß nicht 172.**18**.0.2, sondern 172.**29**.0.2; ebenso in Abschnitt 11.
+    - Seite 169f: Die im Text genannten IP-Adressen 172.**18**.0.x sollten 172.**30**.0.x heißen.
